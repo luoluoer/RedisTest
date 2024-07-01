@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class RedisTestApplication {
-
+//柴方贵测试用
     public static void main(String[] args) {
         SpringApplication.run(RedisTestApplication.class, args);
     }
